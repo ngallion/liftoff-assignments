@@ -9,11 +9,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 Built with the restaurant industry in mind, Schedule-Aider will enable employers to quickly, easily, and accurately build a schedule for employees based on their availability. It will also allow employees to view their schedule and be kept up-to-date on any changes made.
 ### Features
-User login: Managers and employees will be able to create accounts and log in. Managers will have access to schedule-building features, employees will be able to view completed schedules.
-Create a schedule: Managers will be able to create a schedule, either from scratch or from an existing template, and add employee shifts to each day.
-View availability: Managers will be able to see employee availability while building out their schedules.
-Ability to 'send it': Managers will be able to email a copy of the schedule to employees at the press of a button. Any changes made will also be sent to employees.
-Trading Shifts: Employees will be able to offer up their shifts to other employees.
+* **User login**: Managers and employees will be able to create accounts and log in. Managers will have access to schedule-building features, employees will be able to view completed schedules.
+* **Create a schedule**: Managers will be able to create a schedule, either from scratch or from an existing template, and add employee shifts to each day.
+* **View availability**: Managers will be able to see employee availability while building out their schedules.
+* **Ability to 'send it'**: Managers will be able to email a copy of the schedule to employees at the press of a button. Any changes made will also be sent to employees.
+* **Trading Shifts**: Employees will be able to offer up their shifts to other employees.
 
 ### Technologies
 Java, Spring Boot, Hibernate, MySQL, Thymeleaf

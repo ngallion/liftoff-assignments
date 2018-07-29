@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![Landing page](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/landingpage.jpeg)
-* ![Login screen](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/loginpage.jpeg)
-* ![Build schedule page](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/buildschedule.jpeg)
+* Landing page ![Landing page](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/landingpage.jpeg)
+* Login screen ![Login screen](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/loginpage.jpeg)
+* Build schedule page ![Build schedule page](https://github.com/ngallion/liftoff-assignments/blob/master/P3-Project_Planning/buildschedule.jpeg)
 
 ### Project Tracker
 

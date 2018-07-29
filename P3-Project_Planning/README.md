@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-* ![Landing page](/img/landingpage.jpg)
-* ![Login screen](/img/loginpage.jpg)
-* ![Build schedule page](/img/buildschedule.jpg)
+* ![Landing page](/landingpage.jpg)
+* ![Login screen](/loginpage.jpg)
+* ![Build schedule page](/buildschedule.jpg)
 
 ### Project Tracker
 
